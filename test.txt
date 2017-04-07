@@ -1,1 +1,4 @@
-hi 
+hi
+another line
+this is my line
+merge conflict resolved 
